@@ -1,4 +1,6 @@
 # libepc
+[![ci](https://github.com/hyusuk/libepc/actions/workflows/build.yml/badge.svg)](https://github.com/hyusuk/libepc/actions/workflows/build.yml)
+
 libepc is an EPC Tag Data encoding library for C++.
 
 ## Features
